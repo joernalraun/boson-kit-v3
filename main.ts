@@ -1,3 +1,4 @@
+
 enum BosonAnalogPins {
     P0 = AnalogPin.P0,
     P1 = AnalogPin.P1,
@@ -18,6 +19,7 @@ enum BosonSpeakerPins {
 }
 namespace BosonKitV3 {
 
+    //% weight=100 color=#b5cf0a icon="\uf085" block="Boson Kit V3"
 
     //% block="set digital value for fan on %pin to %level"
     //% blockId="writeDigitalPin"
