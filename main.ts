@@ -1,4 +1,3 @@
-   //% weight=100 color=#b5cf0a icon="\uf085" block="Boson Kit V3"
 
 enum BosonAnalogPins {
     P0 = AnalogPin.P0,
@@ -18,6 +17,12 @@ enum BosonSpeakerPins {
     M0,
     M1
 }
+
+/**
+* Boson Kit V3 Blocks
+*/
+//% weight=100 color=#b5cf0a icon="\uf085" block="Boson Kit V3"
+
 namespace BosonKitV3 {
 
  
