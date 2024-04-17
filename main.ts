@@ -1,3 +1,4 @@
+   //% weight=100 color=#b5cf0a icon="\uf085" block="Boson Kit V3"
 
 enum BosonAnalogPins {
     P0 = AnalogPin.P0,
@@ -19,8 +20,7 @@ enum BosonSpeakerPins {
 }
 namespace BosonKitV3 {
 
-    //% weight=100 color=#b5cf0a icon="\uf085" block="Boson Kit V3"
-
+ 
     //% block="set digital value for fan on %pin to %level"
     //% blockId="writeDigitalPin"
     //% block.loc.de="setze digitalen Wert für Ventilator an %pin auf %level"
